@@ -1,3 +1,6 @@
+# git ignore for repository
+# Contains Front End and Back End ignore files
+
 # Logs
 logs
 *.log
